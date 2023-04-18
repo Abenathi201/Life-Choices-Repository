@@ -1,0 +1,28 @@
+body, .container { 
+    font-family: 'Rubik', sans-serif, serif;
+    background-color: #000;
+    color: white;
+    line-height: 2.07;
+    text-align: center;
+    padding: 10px;
+}
+
+#heading{
+    border-style: solid;
+    border-color: gray;
+    background: lightslategray;
+    border-radius: 55px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
+
+.headings {
+    border-style: solid;
+    border-color: gray;
+    background: lightslategray;
+    border-radius: 45px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
